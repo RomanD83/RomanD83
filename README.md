@@ -6,11 +6,11 @@
 Закончил:
 - Karpov.courses по специализации Аналитик данных.
 - Simulative Симулятор «SQL для анализа данных».
-Стек технологий: Python, SQL, Power BI.
+- Стек технологий: Python, SQL, Power BI.
 
 Связь со мной:
- telegram: RomanD83
- email: rdmitrikov83@gmail.com
+- telegram: RomanD83
+- email: rdmitrikov83@gmail.com
 <!--
 **RomanD83/RomanD83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
