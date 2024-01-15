@@ -7,7 +7,7 @@
 ##### Закончил:
 - Karpov.courses по специализации Аналитик данных.
 - Simulative Симулятор «SQL для анализа данных».
-- Стек технологий: Python, SQL, Power BI.
+- Стек технологий: Python, SQL, Python (pandas , numpy, seaborn).
 
 Связь со мной:
 - telegram: RomanD83
